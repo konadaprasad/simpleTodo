@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.card-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+}
+.title {
+  font-family: 'roboto';
+  font-size: 14px;
+  color: #000000;
+}
+.delete-button {
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  border-width: 1px;
+  background-color: transparent;
+}

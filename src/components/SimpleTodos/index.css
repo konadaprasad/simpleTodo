@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  padding: 40px;
+}
+.inner-container {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'roboto';
+  text-align: center;
+  justify-content: center;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.heading {
+  font-size: 30px;
+  color: #ff8542;
+  font-weight: bold;
+}
+.items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
